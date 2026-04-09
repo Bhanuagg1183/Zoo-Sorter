@@ -1,6 +1,18 @@
 # Zoo-Sorter
 
-Technologies: Python, TensorFlow, Keras, OpenCV, CNN, Image Classification
+# Technologies
+
+Python
+
+TensorFlow
+
+Keras
+
+OpenCV
+
+CNN
+
+Image Classification
 
 
 # Objective
