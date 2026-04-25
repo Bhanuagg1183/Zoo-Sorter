@@ -2,17 +2,17 @@
 
 ## Technologies
 
-Python
+- Python
 
-TensorFlow
+- TensorFlow
 
-Keras
+- Keras
 
-OpenCV
+- OpenCV
 
-CNN
+- CNN
 
-Image Classification
+- Image Classification
 
 
 ## Objective
