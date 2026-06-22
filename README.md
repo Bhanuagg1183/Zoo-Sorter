@@ -36,40 +36,40 @@ Developed a regression-based machine learning model to predict mobile phone pric
 
 ## Insights & Observations
 
-Transfer learning significantly accelerated training and improved accuracy.
+- Transfer learning significantly accelerated training and improved accuracy.
 
-Data augmentation played a crucial role in boosting model robustness.
+- Data augmentation played a crucial role in boosting model robustness.
 
-Misclassifications often occurred between visually similar species.
+- Misclassifications often occurred between visually similar species.
 
-The model showed resilience to variations in lighting and image background.
+- The model showed resilience to variations in lighting and image background.
 
-Ensemble methods could further improve classification accuracy.
+- Ensemble methods could further improve classification accuracy.
 
-This architecture follows the transfer learning paradigm:
+- This architecture follows the transfer learning paradigm:
    
-   Pre-trained CNN → feature extractor
+ Pre-trained CNN → feature extractor
    
-   GAP & Dense Layers → compact representation and decision-making
+ GAP & Dense Layers → compact representation and decision-making
    
-   Softmax Output → final multi-class classification
+ Softmax Output → final multi-class classification
 
-It strikes a balance between efficiency, generalization, and accuracy, making it suitable for image classification tasks on moderately sized datasets.
+- It strikes a balance between efficiency, generalization, and accuracy, making it suitable for image classification tasks on moderately sized datasets.
 
 
 ## Future Scope
 
-Potential enhancements to the current system include:
+- Potential enhancements to the current system include:
 
-Expanding the dataset with more diverse images.
+- Expanding the dataset with more diverse images.
 
-Incorporating ensemble deep learning architectures.
+- Incorporating ensemble deep learning architectures.
 
-Deploying the model as a cloud-based API for real-time animal recognition.
+- Deploying the model as a cloud-based API for real-time animal recognition.
 
-Integrating object detection to identify multiple animals in a single image.
+- Integrating object detection to identify multiple animals in a single image.
 
-Utilizing attention mechanisms to focus on key image regions.
+- Utilizing attention mechanisms to focus on key image regions.
 
 
 # Conclusion
