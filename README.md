@@ -2,19 +2,12 @@
 <!-- Animal Classification Model -->
 
 ## Technologies
-
 - Python
-
 - TensorFlow
-
 - Keras
-
 - OpenCV
-
 - CNN
-
 - Image Classification
-
 
 ## Objective
 
