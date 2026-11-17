@@ -1,6 +1,6 @@
 # Zoo-Sorter
 <!-- Animal Classification Model -->
-<!-- It was created during my internship with Unified Mentors. -->
+<!-- It was created during my internship with Unified Mentors from May'25 . -->
 - Python
 - TensorFlow
 - Keras
